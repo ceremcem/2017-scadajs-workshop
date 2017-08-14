@@ -4,7 +4,7 @@
 
 Eğitimin sonunda katılımcılar kendi SPA uygulamalarını kolayca yazabiliyor olmalılar. Yazdıkları webapp'i kullanarak donanımla (PLC, motor, printer vs.) iletişime geçebilmeliler. 
 
-# GELİŞTİRİCİLER İÇİN: Hazırlık
+# Hazırlık
 
 Eğitime geliştirici olarak katılacakların gelmeden önce hazırlık yapması gerekmektedir: 
 
