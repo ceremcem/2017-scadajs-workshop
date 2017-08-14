@@ -15,10 +15,10 @@ Eğitime hazırlık için
 
 ### Eğitim Programı 
 
-* 1. saat: ScadaJS'in yapısı, mesaj formatı, mesaj yönlendirme (routing) mekanizması anlatılacak. 
-* 2. saat: Kullanıcı girişi sistemi ve izin sistemi altyapısı anlatılacak.
-* 3. saat: Komponent mekanizması anlatılacak. 
-* 4-6. saat: Katılımcılarla birlikte planlanacak bir proje gerçekleştirilecek. 
+* `1. saat`: ScadaJS'in yapısı, mesaj formatı, mesaj yönlendirme (routing) mekanizması anlatılacak. 
+* `2. saat`: Kullanıcı girişi sistemi ve izin sistemi altyapısı anlatılacak.
+* `3. saat`: Komponent mekanizması anlatılacak. 
+* `4-6. saat`: Katılımcılarla birlikte planlanacak bir proje gerçekleştirilecek. 
 
 ### İletişim 
 1. Herhangi bir problemi buradaki [issue](https://github.com/hacknbreak/2017-scadajs-workshop/issues) sayfasından belirtebilirsiniz (Türkçe yazabilirsiniz). 
