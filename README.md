@@ -4,14 +4,14 @@
 
 Eğitimin sonunda katılımcılar kendi SPA uygulamalarını kolayca yazabiliyor olmalılar. Yazdıkları webapp'i kullanarak donanımla (PLC, motor, printer vs.) iletişime geçebilmeliler. 
 
-### Hazırlık
+# GELİŞTİRİCİLER İÇİN: Hazırlık
 
-Eğitime hazırlık için 
+Eğitime geliştirici olarak katılacakların gelmeden önce hazırlık yapması gerekmektedir: 
 
 1. https://github.com/aktos-io/scadajs-template projesini kurup çalıştırın. Demo adresinde görünen uygulamayı derlemeniz en fazla 5 dakika sürmelidir. 
 2. Eğer kurulum 5 dakikadan fazla sürüyorsa problem vardır, haber veriniz.
 
-> Hazırlık yaparak gelenlere eğitim esnasında öncelik verilecektir. 
+> Hazırlık yaparak gelenlere eğitim esnasında **öncelik verilecektir**. 
 
 ### Eğitim Programı 
 
